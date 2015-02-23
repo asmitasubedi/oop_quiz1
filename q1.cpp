@@ -1,7 +1,7 @@
 /*
  Program: Question 1 from quiz 1.
- Name   : Milan Lamichhane
- Roll   :
+ Name   : Asmita Subedi
+ Roll   : 0346
  Output : 8
 */
 
